@@ -1,3 +1,11 @@
-this is a git text testing file
-git is a dvcs tool
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 284 bytes | 94.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/sudheer307/ssh-test.git
+   063317f..089e105  master -> master
+
 
